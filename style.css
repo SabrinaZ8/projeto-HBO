@@ -67,7 +67,7 @@ a {
     display: flex;
     flex-flow: column nowrap;
     width: 300px;
-    padding: 40px;
+    padding: 25px;
 }
 #acao > a {
     padding: 10px 0 10px 0;
